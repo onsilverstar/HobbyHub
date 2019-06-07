@@ -1,0 +1,58 @@
+C:\Users\v-sijumb\ChefsDishes\bin\Debug\netcoreapp2.1\ChefsDishes.deps.json
+C:\Users\v-sijumb\ChefsDishes\bin\Debug\netcoreapp2.1\ChefsDishes.runtimeconfig.json
+C:\Users\v-sijumb\ChefsDishes\bin\Debug\netcoreapp2.1\ChefsDishes.runtimeconfig.dev.json
+C:\Users\v-sijumb\ChefsDishes\bin\Debug\netcoreapp2.1\ChefsDishes.dll
+C:\Users\v-sijumb\ChefsDishes\bin\Debug\netcoreapp2.1\ChefsDishes.pdb
+C:\Users\v-sijumb\ChefsDishes\bin\Debug\netcoreapp2.1\ChefsDishes.Views.dll
+C:\Users\v-sijumb\ChefsDishes\bin\Debug\netcoreapp2.1\ChefsDishes.Views.pdb
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.csprojAssemblyReference.cache
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.csproj.CoreCompileInputs.cache
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.RazorAssemblyInfo.cache
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.RazorAssemblyInfo.cs
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.AssemblyInfoInputs.cache
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.AssemblyInfo.cs
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.TagHelpers.input.cache
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.TagHelpers.output.cache
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.RazorCoreGenerate.cache
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.RazorTargetAssemblyInfo.cache
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.RazorTargetAssemblyInfo.cs
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.Views.pdb
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.dll
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.pdb
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.csproj.CopyComplete
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Dishes.g.cshtml.cs
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Add.g.cshtml.cs
+C:\Users\v-sijumb\ChefsDishes\obj\Debug\netcoreapp2.1\Razor\Views\Home\newdish.g.cshtml.cs
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\bin\Debug\netcoreapp2.1\ChefsDishes.deps.json
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\bin\Debug\netcoreapp2.1\ChefsDishes.runtimeconfig.json
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\bin\Debug\netcoreapp2.1\ChefsDishes.runtimeconfig.dev.json
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\bin\Debug\netcoreapp2.1\ChefsDishes.dll
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\bin\Debug\netcoreapp2.1\ChefsDishes.pdb
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\bin\Debug\netcoreapp2.1\ChefsDishes.Views.dll
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\bin\Debug\netcoreapp2.1\ChefsDishes.Views.pdb
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.csprojAssemblyReference.cache
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.csproj.CoreCompileInputs.cache
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.RazorAssemblyInfo.cache
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.RazorAssemblyInfo.cs
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.AssemblyInfoInputs.cache
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.AssemblyInfo.cs
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.TagHelpers.input.cache
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.TagHelpers.output.cache
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.RazorCoreGenerate.cache
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Add.g.cshtml.cs
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Dishes.g.cshtml.cs
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\Razor\Views\Home\newdish.g.cshtml.cs
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.RazorTargetAssemblyInfo.cache
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.RazorTargetAssemblyInfo.cs
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.Views.pdb
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.dll
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.pdb
+C:\Users\v-sijumb\Desktop\Coding Dojo\Chefs N Dishes\ChefsDishes\obj\Debug\netcoreapp2.1\ChefsDishes.csproj.CopyComplete

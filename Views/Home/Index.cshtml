@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Chef>
+<nav class="nav">
+        <a asp-controller="Home">Chefs</a>
+        <a asp-action="Dishes">Dishes</a>
+        <a asp-action="Add">Add a Chef</a>
+    </nav>
+<h3>Check out our roster of Chefs!</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <td><strong><em>Name</em></strong></td>
+            <td><strong><em>Age</em></strong></td>
+            <td><strong><em># of Dishes</em></strong></td>
+        </tr>
+    </thead>
+    <tbody>
+        @{foreach(var x in Model)
+        {<tr>
+            <td>@x.Name</td>
+            <td>@x.Age</td>
+            <td>@x.NumbDishes</td><br>
+        </tr>}}
+    </tbody>
+</table>
